@@ -1,0 +1,15 @@
+C:\Users\lolke\C#\StartOOP\bin\Debug\net6.0\StartOOP.exe
+C:\Users\lolke\C#\StartOOP\bin\Debug\net6.0\StartOOP.deps.json
+C:\Users\lolke\C#\StartOOP\bin\Debug\net6.0\StartOOP.runtimeconfig.json
+C:\Users\lolke\C#\StartOOP\bin\Debug\net6.0\StartOOP.dll
+C:\Users\lolke\C#\StartOOP\bin\Debug\net6.0\StartOOP.pdb
+C:\Users\lolke\C#\StartOOP\obj\Debug\net6.0\StartOOP.csproj.AssemblyReference.cache
+C:\Users\lolke\C#\StartOOP\obj\Debug\net6.0\StartOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolke\C#\StartOOP\obj\Debug\net6.0\StartOOP.AssemblyInfoInputs.cache
+C:\Users\lolke\C#\StartOOP\obj\Debug\net6.0\StartOOP.AssemblyInfo.cs
+C:\Users\lolke\C#\StartOOP\obj\Debug\net6.0\StartOOP.csproj.CoreCompileInputs.cache
+C:\Users\lolke\C#\StartOOP\obj\Debug\net6.0\StartOOP.dll
+C:\Users\lolke\C#\StartOOP\obj\Debug\net6.0\refint\StartOOP.dll
+C:\Users\lolke\C#\StartOOP\obj\Debug\net6.0\StartOOP.pdb
+C:\Users\lolke\C#\StartOOP\obj\Debug\net6.0\StartOOP.genruntimeconfig.cache
+C:\Users\lolke\C#\StartOOP\obj\Debug\net6.0\ref\StartOOP.dll
